@@ -13,5 +13,9 @@ fbprophet includes a number of convenient functions for working with time series
 fbprophet is well-suited for a wide range of time series forecasting tasks, including business forecasting, economic forecasting, and forecasting of other types of data with seasonal patterns. It is particularly useful for cases where there is a need to make forecasts for a large number of related time series, such as forecasting demand for a product in multiple regions.
 
 ### Data Description
-Column	Description
-year |Year to which the data belongs datepart| Date on which unique visitors surfed the website Country | Country of the users unique_visitors |Count of unique visitors who visted on the given date
+Column	| Description
+|-------|--------|
+year |Year to which the data belongs 
+datepart| Date on which unique visitors surfed the website 
+Country | Country of the users 
+unique_visitors |Count of unique visitors who visted on the given date
